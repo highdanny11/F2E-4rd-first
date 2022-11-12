@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@900&display=swap');
+@import '~bootstrap/scss/functions';
+@import './helpers/variables';
+// 新的版本需要增加 map
+// https://stackoverflow.com/questions/73054062/sasserror-undefined-variable-failing-dependencies
+@import "~bootstrap/scss/maps"; 
+@import "~bootstrap/scss/utilities";
+@import './helpers/utilities'; 
+@import '~bootstrap/scss/bootstrap';
+
+@import './base/reset';
+@import './pages/componemts/navbar';
+@import './pages/page/Home';
