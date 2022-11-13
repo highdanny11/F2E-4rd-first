@@ -22,5 +22,3 @@ node -v => v14.17.0
 * GSAP
 * Vue
 * TypeScript
-
-# What a new try ?

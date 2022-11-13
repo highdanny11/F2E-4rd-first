@@ -113,6 +113,7 @@ onMounted(() => {
 .mask-top {
   background: url('@/assets/images/mask/mask-T.png') no-repeat center / cover;
   width: 100vw;
+  min-width: 1024px;
   aspect-ratio: 1034 / 581;
   top: 0;
 }
@@ -120,6 +121,7 @@ onMounted(() => {
 .mask-left {
   background: url('@/assets/images/mask/mask-L.png') no-repeat center / cover;
   width: 100vw;
+  min-width: 1024px;
   aspect-ratio: 760 / 853;
   left: -40vw;
   top: 0;
@@ -128,6 +130,7 @@ onMounted(() => {
 .mask-right {
   background: url('@/assets/images/mask/mask-R.png') no-repeat center / cover;
   width: 100vw;
+  min-width: 1024px;
   aspect-ratio: 983 / 814;
   right: -50vw;
   top: 0;
