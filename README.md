@@ -18,7 +18,6 @@ node -v => v14.17.0
 [Github pages](https://highdanny11.github.io/F2E-4rd-first/#/)
 
 # 使用技術
-
 * GSAP
 * Vue
 * TypeScript
